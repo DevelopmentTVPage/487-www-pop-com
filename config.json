@@ -1,0 +1,15 @@
+{
+    "title": "pop",
+    "baseURL": "https:\/\/www.pop.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759046",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "pop.com"
+    }
+}
